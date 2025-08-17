@@ -1,4 +1,4 @@
-<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/8410042d-88b2-4ae8-a0ac-81250292193b" /># 👋 Hi, I’m Sekar D  
+# 👋 Hi, I’m Sekar D  
 📍 Salem, Tamil Nadu | 📧 sekardurai142003@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/sekar-d)  
 
 I’m passionate about **User Experience Design** and **Frontend Development**.  
@@ -15,8 +15,6 @@ Here’s a collection of my selected **UI/UX and development projects**:
 - Focused on **navigation clarity, usability, and clean layouts**.  
 - Project is **still in development**, with plans to improve mobile responsiveness and add booking flows.  
 🔗 [View Figma File](https://www.figma.com/design/Rdt9F4GqB5yIE2scOPhL1y/RK-Holidays?node-id=0-1&t=tHfE3W4f6Ihy0dyv-1)  
-
-<img width="800" alt="RK Holidays Screenshot" src="https://github.com/user-attachments/assets/9558d23d-ab39-4420-b2f6-071f14bb1f2a" />
 
 ---
 
@@ -37,11 +35,10 @@ Here’s a collection of my selected **UI/UX and development projects**:
 ---
 
 ## 🌐 Full-Stack  
-
 ### ORA – Social Media Web App  
 - **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Cloudinary  
 - Features: User authentication, post uploads, likes, comments, and saved posts.  
-🔗 [Live Demo](https://ora09.vercel.app/) | [GitHub Repo](your-code-repo-link)
+🔗 [Live Demo](https://ora09.vercel.app/) | [GitHub Repo](https://github.com/sekar200309/Ora-Social-App.git)
 <img width="800" alt="SushiMan Website Screenshot" src="https://github.com/user-attachments/assets/0a2a533b-de9d-4968-ac5f-1442b241e279" />
 
 ---
