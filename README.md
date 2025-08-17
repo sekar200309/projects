@@ -24,7 +24,7 @@ Here’s a collection of my selected **UI/UX and development projects**:
 - **Tech:** HTML, CSS, JavaScript  
 - Built a responsive Tesla landing page with **interactive menus and hover effects**.  
 🔗 [Live Demo](https://teslaui09.vercel.app/) | [GitHub Repo](https://github.com/sekar200309/Tesla_UI.git)
-<img width="800" alt="Tesla Landing Page Screenshot" src="https://github.com/user-attachments/assets/9d93fa5c-146b-458c-b02d-3d592ce7a95d" />  
+<img width="800" alt="Tesla Landing Page Screenshot" src="https://github.com/user-attachments/assets/e23e0f24-f807-4d97-9580-94ec01535c08" />  
 
 ### SushiMan Restaurant Website  
 - **Tech:** HTML, CSS (BEM)  
